@@ -1,0 +1,24 @@
+    Scanner Class:
+Helps use take the input from keyboard
+
+Logical Operators:
+    Just another set of symbol that we use to combine multiple boolean values. there
+are logical operators !  || &&
+
+why should we learn about the logical operators?
+    we can greatly simplyfy the logic we use these operators
+
+What is the syntax:
+    they only work with boolean data type
+    if
+
+
+
+
+NOT Operator(!)
+    not is used to negate the boolean values if something is true it will make it false,
+if something is false it will make it true
+
+|| ====> if one condition is true all of them is true
+
+&& ====> if one condition is false all of them is false

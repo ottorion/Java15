@@ -1,0 +1,25 @@
+Java follows some rules for naming things like classes and boxes(Variables)
+1) While naming a class first letter of all the words should uppercase for example DecimalNumbers
+2) while giving names to variables or boxes first letter of all the words should be uppercase except the first word
+myBox
+
+
+Homework
+Task1 page 34
+
+@here Create a Java program(A class with main method) and name it Practice Variables
+In your program create variables to store all different types of primitive data to test the range
+Print the value of each variable
+public class Main {
+   public static void main(String[] args) {
+     Byte box1=112;
+     Short box2=224;
+     System.out. println(box1);
+     System.out. println(box2);
+     //Do for the remaining primitive types
+   }
+}
+
+Task2 page 35
+
+
