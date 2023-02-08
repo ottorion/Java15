@@ -1,0 +1,7 @@
+OOP(Object oriented programming):
+    It's just a way of writing code.That follows certain rules or guidelines. We create classes that have attributes/properties/fields
+    and methods/functions/behaviorism
+Why we should learn OOP?
+1) It simplifies the sofware development and maintenance(adding new
+features changing the existing code.)
+2)
